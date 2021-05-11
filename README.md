@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jake
+- 👋 Hi, I’m Jake
 - 👀 I’m interested in video games, coding, and other amazing technology.
 - 🌱 I’m currently learning code.
 - 💞️ I’m looking to collaborate on coding projects.
